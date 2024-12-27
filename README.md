@@ -1,0 +1,1 @@
+# Building-a-translation-model-from-English-to-Persian-using-LSTM
